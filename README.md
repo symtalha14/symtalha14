@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @symtalha14
-- 👀 Passionate and keen learner
-- 🌱 Trying to make the most of my knowledge in Software Development to make productive solutions for the society
-- 💞️ I’m looking forward to working in some Real World Open Source Projects.
+- 👋 Hi, I’m Talha
 
 
 <!---
