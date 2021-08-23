@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Talha
-- I love building Web Apps.
-- Experienced in analyzing Product Costs & Scalability
+- Have fun going through my Repos.
 
 <!---
 symtalha14/symtalha14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
