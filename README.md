@@ -5,7 +5,7 @@
 - Have fun going through my Repos. <br>
 - Searching for interesting Open Source Projects.
 - <a href="mailto:syedtalha5314@gmail.com" target="_blank">Contact me here</a>
-- Checkout my tool-  <a href="http://free-youtube-thumbnail-downloader.com"> Visit Youtube thumbnail downloader</a>
+
 <br>
 
 ### 🔨 Languages and Tools
